@@ -394,3 +394,12 @@
 [submodule "sway/zig-wlroots"]
 	path = sway/zig-wlroots
 	url = https://github.com/swaywm/zig-wlroots
+[submodule "lua/lua"]
+	path = lua/lua
+	url = https://github.com/lua/lua
+[submodule "lua/luajit"]
+	path = lua/luajit
+	url = https://luajit.org/git/luajit.git
+[submodule "lua/terra"]
+	path = lua/terra
+	url = https://github.com/terralang/terra
