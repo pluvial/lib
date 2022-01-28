@@ -448,3 +448,12 @@
 [submodule "vue/vuex"]
 	path = vue/vuex
 	url = https://github.com/vuejs/vuex
+[submodule "vite/vite"]
+	path = vite/vite
+	url = https://github.com/vitejs/vite
+[submodule "vite/vite-plugin-rsw"]
+	path = vite/vite-plugin-rsw
+	url = https://github.com/lencx/vite-plugin-rsw
+[submodule "vite/vite-plugin-wasm-pack"]
+	path = vite/vite-plugin-wasm-pack
+	url = https://github.com/nshen/vite-plugin-wasm-pack
