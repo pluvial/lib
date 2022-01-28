@@ -328,3 +328,12 @@
 [submodule "zig/zua"]
 	path = zig/zua
 	url = https://github.com/squeek502/zua
+[submodule "rollup/plugins"]
+	path = rollup/plugins
+	url = https://github.com/rollup/plugins
+[submodule "rollup/rollup"]
+	path = rollup/rollup
+	url = https://github.com/rollup/rollup
+[submodule "rollup/rollup-plugin-go-wasm"]
+	path = rollup/rollup-plugin-go-wasm
+	url = https://github.com/go-courier/rollup-plugin-go-wasm
