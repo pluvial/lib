@@ -355,3 +355,6 @@
 [submodule "astro/prettier-plugin-astro"]
 	path = astro/prettier-plugin-astro
 	url = https://github.com/snowpackjs/prettier-plugin-astro
+[submodule "nim/Nim"]
+	path = nim/Nim
+	url = https://github.com/nim-lang/Nim
