@@ -358,3 +358,27 @@
 [submodule "nim/Nim"]
 	path = nim/Nim
 	url = https://github.com/nim-lang/Nim
+[submodule "wayland/greenfield"]
+	path = wayland/greenfield
+	url = https://github.com/udevbe/greenfield
+[submodule "wayland/greenfield-webshell"]
+	path = wayland/greenfield-webshell
+	url = https://github.com/udevbe/greenfield-webshell
+[submodule "wayland/wayland"]
+	path = wayland/wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland
+[submodule "wayland/wayland-protocols"]
+	path = wayland/wayland-protocols
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols
+[submodule "wayland/wayland-utils"]
+	path = wayland/wayland-utils
+	url = https://gitlab.freedesktop.org/wayland/wayland-utils
+[submodule "wayland/webshell"]
+	path = wayland/webshell
+	url = https://github.com/udevbe/webshell
+[submodule "wayland/westfield"]
+	path = wayland/westfield
+	url = https://github.com/udevbe/westfield
+[submodule "wayland/weston"]
+	path = wayland/weston
+	url = https://gitlab.freedesktop.org/wayland/weston
