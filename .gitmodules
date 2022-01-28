@@ -538,3 +538,24 @@
 [submodule "deno/vscode_deno"]
 	path = deno/vscode_deno
 	url = https://github.com/denoland/vscode_deno
+[submodule "editors/helix"]
+	path = editors/helix
+	url = https://github.com/helix-editor/helix
+[submodule "editors/kakoune"]
+	path = editors/kakoune
+	url = https://github.com/mawww/kakoune
+[submodule "editors/lite"]
+	path = editors/lite
+	url = https://github.com/rxi/lite
+[submodule "editors/lite-plugins"]
+	path = editors/lite-plugins
+	url = https://github.com/rxi/lite-plugins
+[submodule "editors/lite-xl"]
+	path = editors/lite-xl
+	url = https://github.com/lite-xl/lite-xl
+[submodule "editors/lite-xl-plugins"]
+	path = editors/lite-xl-plugins
+	url = https://github.com/lite-xl/lite-xl-plugins
+[submodule "editors/neovim"]
+	path = editors/neovim
+	url = https://github.com/neovim/neovim
