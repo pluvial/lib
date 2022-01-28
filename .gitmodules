@@ -1,0 +1,108 @@
+[submodule "svelte/action-deploy-docs"]
+	path = svelte/action-deploy-docs
+	url = https://github.com/sveltejs/action-deploy-docs
+[submodule "svelte/api.svelte.dev"]
+	path = svelte/api.svelte.dev
+	url = https://github.com/sveltejs/api.svelte.dev
+[submodule "svelte/carbon-components-svelte"]
+	path = svelte/carbon-components-svelte
+	url = https://github.com/carbon-design-system/carbon-components-svelte
+[submodule "svelte/component-template"]
+	path = svelte/component-template
+	url = https://github.com/sveltejs/component-template
+[submodule "svelte/dockit"]
+	path = svelte/dockit
+	url = https://github.com/crinklesio/dockit
+[submodule "svelte/gl"]
+	path = svelte/gl
+	url = https://github.com/sveltejs/gl
+[submodule "svelte/hn.svelte.dev"]
+	path = svelte/hn.svelte.dev
+	url = https://github.com/sveltejs/hn.svelte.dev
+[submodule "svelte/kit"]
+	path = svelte/kit
+	url = https://github.com/sveltejs/kit
+[submodule "svelte/language-tools"]
+	path = svelte/language-tools
+	url = https://github.com/sveltejs/language-tools
+[submodule "svelte/mdsvex"]
+	path = svelte/mdsvex
+	url = https://github.com/pngwn/mdsvex
+[submodule "svelte/prettier-plugin-svelte"]
+	path = svelte/prettier-plugin-svelte
+	url = https://github.com/sveltejs/prettier-plugin-svelte
+[submodule "svelte/primo-desktop"]
+	path = svelte/primo-desktop
+	url = https://github.com/primo-af/primo-desktop
+[submodule "svelte/primo"]
+	path = svelte/primo
+	url = https://github.com/primo-af/primo
+[submodule "svelte/primo-server"]
+	path = svelte/primo-server
+	url = https://github.com/primo-af/primo-server
+[submodule "svelte/realworld"]
+	path = svelte/realworld
+	url = https://github.com/sveltejs/realworld
+[submodule "svelte/rollup-plugin-svelte"]
+	path = svelte/rollup-plugin-svelte
+	url = https://github.com/sveltejs/rollup-plugin-svelte
+[submodule "svelte/site-kit"]
+	path = svelte/site-kit
+	url = https://github.com/sveltejs/site-kit
+[submodule "svelte/sites"]
+	path = svelte/sites
+	url = https://github.com/sveltejs/sites
+[submodule "svelte/svelte-cubed"]
+	path = svelte/svelte-cubed
+	url = https://github.com/rich-harris/svelte-cubed
+[submodule "svelte/svelte-devtools"]
+	path = svelte/svelte-devtools
+	url = https://github.com/RedHatter/svelte-devtools
+[submodule "svelte/svelte-forms"]
+	path = svelte/svelte-forms
+	url = https://github.com/chainlist/svelte-forms
+[submodule "svelte/svelte"]
+	path = svelte/svelte
+	url = https://github.com/sveltejs/svelte
+[submodule "svelte/svelte-hmr"]
+	path = svelte/svelte-hmr
+	url = https://github.com/sveltejs/svelte-hmr
+[submodule "svelte/sveltekit-netlify-cms"]
+	path = svelte/sveltekit-netlify-cms
+	url = https://github.com/buhrmi/sveltekit-netlify-cms
+[submodule "svelte/svelte-native"]
+	path = svelte/svelte-native
+	url = https://github.com/halfnelson/svelte-native
+[submodule "svelte/svelte-preprocess"]
+	path = svelte/svelte-preprocess
+	url = https://github.com/sveltejs/svelte-preprocess
+[submodule "svelte/svelte-preprocess-markdown"]
+	path = svelte/svelte-preprocess-markdown
+	url = https://github.com/AlexxNB/svelte-preprocess-markdown
+[submodule "svelte/SveltePress"]
+	path = svelte/SveltePress
+	url = https://github.com/GeopJr/SveltePress
+[submodule "svelte/svelte-repl"]
+	path = svelte/svelte-repl
+	url = https://github.com/sveltejs/svelte-repl
+[submodule "svelte/sveltesociety.dev"]
+	path = svelte/sveltesociety.dev
+	url = https://github.com/svelte-society/sveltesociety.dev
+[submodule "svelte/svelte-three-demo"]
+	path = svelte/svelte-three-demo
+	url = https://github.com/Rich-Harris/svelte-three-demo
+[submodule "svelte/svelte-todomvc"]
+	path = svelte/svelte-todomvc
+	url = https://github.com/sveltejs/svelte-todomvc
+[submodule "svelte/svemix-example"]
+	path = svelte/svemix-example
+	url = https://github.com/svemix/svemix-example
+[submodule "svelte/svemix"]
+	path = svelte/svemix
+	url = https://github.com/svemix/svemix
+[submodule "svelte/template"]
+	path = svelte/template
+	url = https://github.com/sveltejs/template
+[submodule "svelte/vite-plugin-svelte"]
+	path = svelte/vite-plugin-svelte
+	url = https://github.com/sveltejs/vite-plugin-svelte
