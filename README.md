@@ -1,6 +1,7 @@
 # lib
 
-A collection of frameworks, languages, libraries, plugins, repositories, for inspiration.
+A collection of frameworks, languages, libraries, plugins, repositories, for
+inspiration.
 
 ## Adding new submodules
 
@@ -20,7 +21,8 @@ A helper script is used to add multiple repositories to `$dir`:
 
 ## List remote repos from directory
 
-A helper script is used to list the `origin` remote URLs for all repos into stdout:
+A helper script is used to list the `origin` remote URLs for all repos into
+stdout:
 
 - In current directory:
 
@@ -38,4 +40,21 @@ Output can be directly piped into the `add-submodules` script:
 
 ```sh
 ./list-remote-urls.sh ~/path/to/repos_dir | ./add-submodules.sh $dir
+```
+
+## Update submodules
+
+A helper script can be used to update submodules from upstream (not recursive,
+it's already heavy enough as it is):
+
+- Update all:
+
+```sh
+./pull-all.sh
+```
+
+- Update all in folder:
+
+```sh
+./pull-all.sh $path
 ```
