@@ -382,3 +382,15 @@
 [submodule "wayland/weston"]
 	path = wayland/weston
 	url = https://gitlab.freedesktop.org/wayland/weston
+[submodule "sway/sway"]
+	path = sway/sway
+	url = https://github.com/swaywm/sway
+[submodule "sway/wlroots"]
+	path = sway/wlroots
+	url = https://github.com/swaywm/wlroots
+[submodule "sway/wlr-protocols"]
+	path = sway/wlr-protocols
+	url = https://github.com/swaywm/wlr-protocols
+[submodule "sway/zig-wlroots"]
+	path = sway/zig-wlroots
+	url = https://github.com/swaywm/zig-wlroots
