@@ -106,3 +106,225 @@
 [submodule "svelte/vite-plugin-svelte"]
 	path = svelte/vite-plugin-svelte
 	url = https://github.com/sveltejs/vite-plugin-svelte
+[submodule "zig/aquila"]
+	path = zig/aquila
+	url = https://github.com/nektro/aquila
+[submodule "zig/arocc"]
+	path = zig/arocc
+	url = https://github.com/Vexu/arocc
+[submodule "zig/bog"]
+	path = zig/bog
+	url = https://github.com/Vexu/bog
+[submodule "zig/bork"]
+	path = zig/bork
+	url = https://github.com/kristoff-it/bork
+[submodule "zig/bun"]
+	path = zig/bun
+	url = https://github.com/Jarred-Sumner/bun
+[submodule "zig/burrito"]
+	path = zig/burrito
+	url = https://github.com/burrito-elixir/burrito
+[submodule "zig/clashos"]
+	path = zig/clashos
+	url = https://github.com/andrewrk/clashos
+[submodule "zig/clashproto"]
+	path = zig/clashproto
+	url = https://github.com/andrewrk/clashproto
+[submodule "zig/evo"]
+	path = zig/evo
+	url = https://github.com/andrewrk/evo
+[submodule "zig/fundude"]
+	path = zig/fundude
+	url = https://github.com/fengb/fundude
+[submodule "zig/futureproof"]
+	path = zig/futureproof
+	url = https://github.com/mkeeter/futureproof
+[submodule "zig/gamejam-zig-vulkan"]
+	path = zig/gamejam-zig-vulkan
+	url = https://github.com/Avokadoen/gamejam-zig-vulkan
+[submodule "zig/georgios"]
+	path = zig/georgios
+	url = https://github.com/iguessthislldo/georgios
+[submodule "zig/HellOS"]
+	path = zig/HellOS
+	url = https://github.com/andrewrk/HellOS
+[submodule "zig/learnopengl"]
+	path = zig/learnopengl
+	url = https://github.com/cshenton/learnopengl
+[submodule "zig/lua-in-the-browser"]
+	path = zig/lua-in-the-browser
+	url = https://github.com/andrewrk/lua-in-the-browser
+[submodule "zig/mach"]
+	path = zig/mach
+	url = https://github.com/hexops/mach
+[submodule "zig/mach-glfw-vulkan-example"]
+	path = zig/mach-glfw-vulkan-example
+	url = https://github.com/hexops/mach-glfw-vulkan-example
+[submodule "zig/mibu"]
+	path = zig/mibu
+	url = https://github.com/xyaman/mibu
+[submodule "zig/MiniPixel"]
+	path = zig/MiniPixel
+	url = https://github.com/fabioarnold/MiniPixel
+[submodule "zig/pluto"]
+	path = zig/pluto
+	url = https://github.com/ZystemOS/pluto
+[submodule "zig/rayray"]
+	path = zig/rayray
+	url = https://github.com/mkeeter/rayray
+[submodule "zig/rem"]
+	path = zig/rem
+	url = https://github.com/chwayne/rem
+[submodule "zig/river"]
+	path = zig/river
+	url = https://github.com/riverwm/river
+[submodule "zig/sdk"]
+	path = zig/sdk
+	url = https://github.com/TinyVG/sdk
+[submodule "zig/sdl-zig-demo"]
+	path = zig/sdl-zig-demo
+	url = https://github.com/andrewrk/sdl-zig-demo
+[submodule "zig/sqlite-zig"]
+	path = zig/sqlite-zig
+	url = https://github.com/leroycep/sqlite-zig
+[submodule "zig/tetris"]
+	path = zig/tetris
+	url = https://github.com/andrewrk/tetris
+[submodule "zig/tigerbeetle"]
+	path = zig/tigerbeetle
+	url = https://github.com/coilhq/tigerbeetle
+[submodule "zig/tigerbeetle-node"]
+	path = zig/tigerbeetle-node
+	url = https://github.com/coilhq/tigerbeetle-node
+[submodule "zig/VecFns"]
+	path = zig/VecFns
+	url = https://github.com/omaraaa/VecFns
+[submodule "zig/vulkan-zig"]
+	path = zig/vulkan-zig
+	url = https://github.com/Snektron/vulkan-zig
+[submodule "zig/xml"]
+	path = zig/xml
+	url = https://github.com/andrewrk/xml
+[submodule "zig/yaar"]
+	path = zig/yaar
+	url = https://github.com/kprotty/yaar
+[submodule "zig/zap"]
+	path = zig/zap
+	url = https://github.com/kprotty/zap
+[submodule "zig/zee_alloc"]
+	path = zig/zee_alloc
+	url = https://github.com/fengb/zee_alloc
+[submodule "zig/zen"]
+	path = zig/zen
+	url = https://github.com/AndreaOrru/zen
+[submodule "zig/zgt"]
+	path = zig/zgt
+	url = https://github.com/zenith391/zgt
+[submodule "zig/ziegfried"]
+	path = zig/ziegfried
+	url = https://github.com/mdsteele/ziegfried
+[submodule "zig/zig-autolua"]
+	path = zig/zig-autolua
+	url = https://github.com/daurnimator/zig-autolua
+[submodule "zig/zig-bootstrap"]
+	path = zig/zig-bootstrap
+	url = https://github.com/ziglang/zig-bootstrap.git
+[submodule "zig/zig-doctest"]
+	path = zig/zig-doctest
+	url = https://github.com/kristoff-it/zig-doctest
+[submodule "zig/zig-gamedev"]
+	path = zig/zig-gamedev
+	url = https://github.com/michal-z/zig-gamedev
+[submodule "zig/zigfmt-web"]
+	path = zig/zigfmt-web
+	url = https://github.com/shritesh/zigfmt-web
+[submodule "zig/ZigGBA"]
+	path = zig/ZigGBA
+	url = https://github.com/wendigojaeger/ZigGBA
+[submodule "zig/zig"]
+	path = zig/zig
+	url = https://github.com/ziglang/zig.git
+[submodule "zig/Zig-Gltf-Display"]
+	path = zig/Zig-Gltf-Display
+	url = https://github.com/SpexGuy/Zig-Gltf-Display
+[submodule "zig/zig-io_uring-http-server"]
+	path = zig/zig-io_uring-http-server
+	url = https://github.com/vrischmann/zig-io_uring-http-server
+[submodule "zig/zig-libgc"]
+	path = zig/zig-libgc
+	url = https://github.com/mitchellh/zig-libgc
+[submodule "zig/ziglint"]
+	path = zig/ziglint
+	url = https://github.com/nektro/ziglint
+[submodule "zig/zig-lua"]
+	path = zig/zig-lua
+	url = https://github.com/tiehuis/zig-lua
+[submodule "zig/zig-mandelbrot-gl"]
+	path = zig/zig-mandelbrot-gl
+	url = https://github.com/andrewrk/zig-mandelbrot-gl
+[submodule "zig/zig-midi"]
+	path = zig/zig-midi
+	url = https://github.com/Hejsil/zig-midi
+[submodule "zig/zigmod"]
+	path = zig/zigmod
+	url = https://github.com/nektro/zigmod
+[submodule "zig/zig-okredis"]
+	path = zig/zig-okredis
+	url = https://github.com/kristoff-it/zig-okredis
+[submodule "zig/zig-pek"]
+	path = zig/zig-pek
+	url = https://github.com/nektro/zig-pek
+[submodule "zig/zig-qoi"]
+	path = zig/zig-qoi
+	url = https://github.com/MasterQ32/zig-qoi
+[submodule "zig/zig-sdl"]
+	path = zig/zig-sdl
+	url = https://github.com/andrewrk/zig-sdl
+[submodule "zig/zig-sqlite"]
+	path = zig/zig-sqlite
+	url = https://github.com/vrischmann/zig-sqlite
+[submodule "zig/Ziguana-Game-System"]
+	path = zig/Ziguana-Game-System
+	url = https://github.com/MasterQ32/Ziguana-Game-System
+[submodule "zig/zig-v8"]
+	path = zig/zig-v8
+	url = https://github.com/fubark/zig-v8
+[submodule "zig/zig_vulkan"]
+	path = zig/zig_vulkan
+	url = https://github.com/Avokadoen/zig_vulkan
+[submodule "zig/zig-vulkan-triangle"]
+	path = zig/zig-vulkan-triangle
+	url = https://github.com/andrewrk/zig-vulkan-triangle
+[submodule "zig/zig-wasm-dom"]
+	path = zig/zig-wasm-dom
+	url = https://github.com/shritesh/zig-wasm-dom
+[submodule "zig/zig-wasm-test"]
+	path = zig/zig-wasm-test
+	url = https://github.com/meheleventyone/zig-wasm-test
+[submodule "zig/zig-window"]
+	path = zig/zig-window
+	url = https://github.com/andrewrk/zig-window
+[submodule "zig/zls"]
+	path = zig/zls
+	url = https://github.com/zigtools/zls
+[submodule "zig/zls-vscode"]
+	path = zig/zls-vscode
+	url = https://github.com/zigtools/zls-vscode
+[submodule "zig/zorex"]
+	path = zig/zorex
+	url = https://github.com/hexops/zorex
+[submodule "zig/zpm-frontend"]
+	path = zig/zpm-frontend
+	url = https://github.com/zigtools/zpm-frontend
+[submodule "zig/zpm"]
+	path = zig/zpm
+	url = https://github.com/zigtools/zpm
+[submodule "zig/zpm-server"]
+	path = zig/zpm-server
+	url = https://github.com/zigtools/zpm-server
+[submodule "zig/ZTT"]
+	path = zig/ZTT
+	url = https://github.com/masterQ32/ZTT
+[submodule "zig/zua"]
+	path = zig/zua
+	url = https://github.com/squeek502/zua
