@@ -496,3 +496,45 @@
 [submodule "raylib/zig-raylib"]
 	path = raylib/zig-raylib
 	url = https://github.com/km19809/zig-raylib
+[submodule "deno/deno_ast"]
+	path = deno/deno_ast
+	url = https://github.com/denoland/deno_ast
+[submodule "deno/deno_doc"]
+	path = deno/deno_doc
+	url = https://github.com/denoland/deno_doc
+[submodule "deno/deno"]
+	path = deno/deno
+	url = https://github.com/denoland/deno
+[submodule "deno/deno_graph"]
+	path = deno/deno_graph
+	url = https://github.com/denoland/deno_graph
+[submodule "deno/deno_lint"]
+	path = deno/deno_lint
+	url = https://github.com/denoland/deno_lint
+[submodule "deno/deno.ns"]
+	path = deno/deno.ns
+	url = https://github.com/denoland/deno.ns
+[submodule "deno/deno_registry2"]
+	path = deno/deno_registry2
+	url = https://github.com/denoland/deno_registry2
+[submodule "deno/deno_std"]
+	path = deno/deno_std
+	url = https://github.com/denoland/deno_std
+[submodule "deno/deploy_examples"]
+	path = deno/deploy_examples
+	url = https://github.com/denoland/deploy_examples
+[submodule "deno/dnt"]
+	path = deno/dnt
+	url = https://github.com/denoland/dnt
+[submodule "deno/dotland"]
+	path = deno/dotland
+	url = https://github.com/denoland/dotland
+[submodule "deno/import_map"]
+	path = deno/import_map
+	url = https://github.com/denoland/import_map
+[submodule "deno/rusty_v8"]
+	path = deno/rusty_v8
+	url = https://github.com/denoland/rusty_v8
+[submodule "deno/vscode_deno"]
+	path = deno/vscode_deno
+	url = https://github.com/denoland/vscode_deno
