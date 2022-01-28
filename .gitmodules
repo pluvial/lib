@@ -418,3 +418,33 @@
 [submodule "hydra/hydra-ts"]
 	path = hydra/hydra-ts
 	url = https://github.com/ojack/hydra-ts
+[submodule "hydra-examples"]
+	path = hydra-examples
+	url = https://github.com/ojack/hydra-examples
+[submodule "vue/docs"]
+	path = vue/docs
+	url = https://github.com/vuejs/docs
+[submodule "vue/framework"]
+	path = vue/framework
+	url = https://github.com/nuxt/framework
+[submodule "vue/modules"]
+	path = vue/modules
+	url = https://github.com/nuxt/modules
+[submodule "vue/vetur"]
+	path = vue/vetur
+	url = https://github.com/vuejs/vetur
+[submodule "vue/vitepress"]
+	path = vue/vitepress
+	url = https://github.com/vuejs/vitepress
+[submodule "vue/vue-cli"]
+	path = vue/vue-cli
+	url = https://github.com/vuejs/vue-cli
+[submodule "vue/vue-next"]
+	path = vue/vue-next
+	url = https://github.com/vuejs/vue-next
+[submodule "vue/vue-router-next"]
+	path = vue/vue-router-next
+	url = https://github.com/vuejs/vue-router-next
+[submodule "vue/vuex"]
+	path = vue/vuex
+	url = https://github.com/vuejs/vuex
