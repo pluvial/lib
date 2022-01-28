@@ -457,3 +457,42 @@
 [submodule "vite/vite-plugin-wasm-pack"]
 	path = vite/vite-plugin-wasm-pack
 	url = https://github.com/nshen/vite-plugin-wasm-pack
+[submodule "raylib/raudio"]
+	path = raylib/raudio
+	url = https://github.com/raysan5/raudio
+[submodule "raylib/raygui"]
+	path = raylib/raygui
+	url = https://github.com/raysan5/raygui
+[submodule "raylib/raylib-game-template"]
+	path = raylib/raylib-game-template
+	url = https://github.com/raysan5/raylib-game-template
+[submodule "raylib/raylib"]
+	path = raylib/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "raylib/raylib-go"]
+	path = raylib/raylib-go
+	url = https://github.com/gen2brain/raylib-go
+[submodule "raylib/raylib-lua"]
+	path = raylib/raylib-lua
+	url = https://github.com/raysan5/raylib-lua
+[submodule "raylib/raylib-rs"]
+	path = raylib/raylib-rs
+	url = https://github.com/deltaphc/raylib-rs
+[submodule "raylib/raylib-zig"]
+	path = raylib/raylib-zig
+	url = https://github.com/Not-Nik/raylib-zig
+[submodule "raylib/raylua"]
+	path = raylib/raylua
+	url = https://github.com/Rabios/raylua
+[submodule "raylib/rpng"]
+	path = raylib/rpng
+	url = https://github.com/raysan5/rpng
+[submodule "raylib/rres"]
+	path = raylib/rres
+	url = https://github.com/raysan5/rres
+[submodule "raylib/zig-raylib-experiments"]
+	path = raylib/zig-raylib-experiments
+	url = https://github.com/BitPuffin/zig-raylib-experiments
+[submodule "raylib/zig-raylib"]
+	path = raylib/zig-raylib
+	url = https://github.com/km19809/zig-raylib
