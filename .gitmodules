@@ -337,3 +337,21 @@
 [submodule "rollup/rollup-plugin-go-wasm"]
 	path = rollup/rollup-plugin-go-wasm
 	url = https://github.com/go-courier/rollup-plugin-go-wasm
+[submodule "astro/astro-compiler-next"]
+	path = astro/astro-compiler-next
+	url = https://github.com/snowpackjs/astro-compiler-next
+[submodule "astro/astro"]
+	path = astro/astro
+	url = https://github.com/snowpackjs/astro
+[submodule "astro/astro-language-tools"]
+	path = astro/astro-language-tools
+	url = https://github.com/snowpackjs/astro-language-tools
+[submodule "astro/astro-og-image"]
+	path = astro/astro-og-image
+	url = https://github.com/snowpackjs/astro-og-image
+[submodule "astro/astro-repl"]
+	path = astro/astro-repl
+	url = https://github.com/snowpackjs/astro-repl
+[submodule "astro/prettier-plugin-astro"]
+	path = astro/prettier-plugin-astro
+	url = https://github.com/snowpackjs/prettier-plugin-astro
