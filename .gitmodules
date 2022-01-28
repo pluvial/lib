@@ -403,3 +403,18 @@
 [submodule "lua/terra"]
 	path = lua/terra
 	url = https://github.com/terralang/terra
+[submodule "hydra/hydra-examples"]
+	path = hydra/hydra-examples
+	url = https://github.com/ojack/hydra-examples
+[submodule "hydra/hydra"]
+	path = hydra/hydra
+	url = https://github.com/ojack/hydra
+[submodule "hydra/hydra-standalone"]
+	path = hydra/hydra-standalone
+	url = https://github.com/ojack/hydra-standalone
+[submodule "hydra/hydra-synth"]
+	path = hydra/hydra-synth
+	url = https://github.com/ojack/hydra-synth
+[submodule "hydra/hydra-ts"]
+	path = hydra/hydra-ts
+	url = https://github.com/ojack/hydra-ts
