@@ -134,7 +134,7 @@
 	path = zig/evo
 	url = https://github.com/andrewrk/evo
 [submodule "zig/fundude"]
-	path = zig/fundude
+	path = zig-wasm/fundude
 	url = https://github.com/fengb/fundude
 [submodule "zig/futureproof"]
 	path = zig/futureproof
@@ -152,7 +152,7 @@
 	path = zig/learnopengl
 	url = https://github.com/cshenton/learnopengl
 [submodule "zig/lua-in-the-browser"]
-	path = zig/lua-in-the-browser
+	path = zig-wasm/lua-in-the-browser
 	url = https://github.com/andrewrk/lua-in-the-browser
 [submodule "zig/mach"]
 	path = zig/mach
@@ -179,7 +179,7 @@
 	path = zig/river
 	url = https://github.com/riverwm/river
 [submodule "zig/sdk"]
-	path = zig/sdk
+	path = zig/tinyvg
 	url = https://github.com/TinyVG/sdk
 [submodule "zig/sdl-zig-demo"]
 	path = zig/sdl-zig-demo
@@ -212,7 +212,7 @@
 	path = zig/zap
 	url = https://github.com/kprotty/zap
 [submodule "zig/zee_alloc"]
-	path = zig/zee_alloc
+	path = zig-wasm/zee_alloc
 	url = https://github.com/fengb/zee_alloc
 [submodule "zig/zen"]
 	path = zig/zen
@@ -236,7 +236,7 @@
 	path = zig/zig-gamedev
 	url = https://github.com/michal-z/zig-gamedev
 [submodule "zig/zigfmt-web"]
-	path = zig/zigfmt-web
+	path = zig-wasm/zigfmt-web
 	url = https://github.com/shritesh/zigfmt-web
 [submodule "zig/ZigGBA"]
 	path = zig/ZigGBA
@@ -296,10 +296,10 @@
 	path = zig/zig-vulkan-triangle
 	url = https://github.com/andrewrk/zig-vulkan-triangle
 [submodule "zig/zig-wasm-dom"]
-	path = zig/zig-wasm-dom
+	path = zig-wasm/zig-wasm-dom
 	url = https://github.com/shritesh/zig-wasm-dom
 [submodule "zig/zig-wasm-test"]
-	path = zig/zig-wasm-test
+	path = zig-wasm/zig-wasm-test
 	url = https://github.com/meheleventyone/zig-wasm-test
 [submodule "zig/zig-window"]
 	path = zig/zig-window
@@ -559,3 +559,123 @@
 [submodule "editors/neovim"]
 	path = editors/neovim
 	url = https://github.com/neovim/neovim
+[submodule "zig/foxwren"]
+	path = zig-wasm/foxwren
+	url = https://github.com/malcolmstill/foxwren
+[submodule "zig/foxwhale"]
+	path = zig/foxwhale
+	url = https://github.com/malcolmstill/foxwhale
+[submodule "zig/zig-wasm3"]
+	path = zig-wasm/zig-wasm3
+	url = https://github.com/alichay/zig-wasm3
+[submodule "zig/wasmer-zig"]
+	path = zig-wasm/wasmer-zig
+	url = https://github.com/zigwasm/wasmer-zig
+[submodule "zig/wasmtime-zig"]
+	path = zig-wasm/wasmtime-zig
+	url = https://github.com/zigwasm/wasmtime-zig
+[submodule "zig/wasm-zig"]
+	path = zig-wasm/wasm-zig
+	url = https://github.com/zigwasm/wasm-zig
+[submodule "zig/ziglearn"]
+	path = zig/ziglearn
+	url = https://github.com/Sobeston/ziglearn
+[submodule "zig/zig-nestedtext"]
+	path = zig/zig-nestedtext
+	url = https://github.com/LewisGaul/zig-nestedtext
+[submodule "zig/zzz"]
+	path = zig/zzz
+	url = https://github.com/gruebite/zzz
+[submodule "zig/zig-yaml"]
+	path = zig/zig-yaml
+	url = https://github.com/kubkon/zig-yaml
+[submodule "zig/libyaml-zig"]
+	path = zig/libyaml-zig
+	url = https://github.com/Diegovsky/libyaml-zig
+[submodule "zig/gyro"]
+	path = zig/gyro
+	url = https://github.com/mattnite/gyro
+[submodule "zig/cosmic"]
+	path = zig-wasm/cosmic
+	url = https://github.com/fubark/cosmic
+[submodule "zig/zig-wasm-webgl"]
+	path = zig-wasm/zig-wasm-webgl
+	url = https://github.com/raulgrell/zig-wasm-webgl
+[submodule "zig/wazm"]
+	path = zig-wasm/wazm
+	url = https://github.com/fengb/wazm
+[submodule "zig/zwld"]
+	path = zig-wasm/zwld
+	url = https://github.com/Luukdegram/zwld
+[submodule "zig/zero-graphics"]
+	path = zig/zero-graphics
+	url = https://github.com/MasterQ32/zero-graphics
+[submodule "zig/zig-wasm-async"]
+	path = zig-wasm/zig-wasm-async
+	url = https://github.com/creationix/zig-wasm-async
+[submodule "zig/wasmparser"]
+	path = zig-wasm/wasmparser
+	url = https://github.com/Luukdegram/wasmparser
+[submodule "zig/zig-wasm-dsp"]
+	path = zig-wasm/zig-wasm-dsp
+	url = https://github.com/schroffl/zig-wasm-dsp
+[submodule "zig/zig-wasmhost"]
+	path = zig-wasm/zig-wasmhost
+	url = https://github.com/rdunnington/zig-wasmhost
+[submodule "zig/kindling"]
+	path = zig-wasm/kindling
+	url = https://github.com/cshenton/kindling
+[submodule "zig/zig-wasm-assets"]
+	path = zig-wasm/zig-wasm-assets
+	url = https://github.com/leroycep/zig-wasm-assets
+[submodule "zig/apple_pie"]
+	path = zig/apple_pie
+	url = https://github.com/Luukdegram/apple_pie
+[submodule "zig/seizer"]
+	path = zig/seizer
+	url = https://github.com/leroycep/seizer
+[submodule "zig/zigmath"]
+	path = zig/zigmath
+	url = https://github.com/leroycep/zigmath
+[submodule "zig/zig-ecs"]
+	path = zig/zig-ecs
+	url = https://github.com/prime31/zig-ecs
+[submodule "zig/zig-gamekit"]
+	path = zig/zig-gamekit
+	url = https://github.com/prime31/zig-gamekit
+[submodule "zig/zig-renderkit"]
+	path = zig/zig-renderkit
+	url = https://github.com/prime31/zig-renderkit
+[submodule "zig/tetris-wasm"]
+	path = zig-wasm/tetris-wasm
+	url = https://github.com/raulgrell/tetris
+[submodule "zig/didot"]
+	path = zig/didot
+	url = https://github.com/zenith391/didot
+[submodule "zig/zgl"]
+	path = zig/zgl
+	url = https://github.com/ziglibs/zgl
+[submodule "zig/positron"]
+	path = zig/positron
+	url = https://github.com/ziglibs/positron
+[submodule "zig/repository"]
+	path = zig/repository
+	url = https://github.com/ziglibs/repository
+[submodule "zig/zasp"]
+	path = zig/zasp
+	url = https://github.com/fengb/zasp
+[submodule "zig/hzzp"]
+	path = zig/hzzp
+	url = https://github.com/truemedian/hzzp
+[submodule "zig/zfetch"]
+	path = zig/zfetch
+	url = https://github.com/truemedian/zfetch
+[submodule "zig/wz"]
+	path = zig/wz
+	url = https://github.com/truemedian/wz
+[submodule "zig/zig-uri"]
+	path = zig/zig-uri
+	url = https://github.com/truemedian/zig-uri
+[submodule "zig-wasm/wapc-guest-zig"]
+	path = zig-wasm/wapc-guest-zig
+	url = https://github.com/wapc/wapc-guest-zig
