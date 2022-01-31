@@ -679,3 +679,93 @@
 [submodule "zig-wasm/wapc-guest-zig"]
 	path = zig-wasm/wapc-guest-zig
 	url = https://github.com/wapc/wapc-guest-zig
+[submodule "rust/makepad"]
+	path = rust/makepad
+	url = https://github.com/makepad/makepad
+[submodule "rust/egui"]
+	path = rust/egui
+	url = https://github.com/emilk/egui
+[submodule "rust/tao"]
+	path = rust/tao
+	url = https://github.com/tauri-apps/tao
+[submodule "rust/winit"]
+	path = rust/winit
+	url = https://github.com/rust-windowing/winit
+[submodule "rust/wry"]
+	path = rust/wry
+	url = https://github.com/tauri-apps/wry
+[submodule "rust/tauri"]
+	path = rust/tauri
+	url = https://github.com/tauri-apps/tauri
+[submodule "rust/bevy"]
+	path = rust/bevy
+	url = https://github.com/bevyengine/bevy
+[submodule "rust/skulpin"]
+	path = rust/skulpin
+	url = https://github.com/aclysma/skulpin
+[submodule "rust/rust-skia"]
+	path = rust/rust-skia
+	url = https://github.com/rust-skia/rust-skia
+[submodule "rust/rafx"]
+	path = rust/rafx
+	url = https://github.com/aclysma/rafx
+[submodule "rust/webrender"]
+	path = rust/webrender
+	url = https://github.com/servo/webrender
+[submodule "rust/wgpu"]
+	path = rust/wgpu
+	url = https://github.com/gfx-rs/wgpu
+[submodule "rust/wgpu-native"]
+	path = rust/wgpu-native
+	url = https://github.com/gfx-rs/wgpu-native
+[submodule "rust/naga"]
+	path = rust/naga
+	url = https://github.com/gfx-rs/naga
+[submodule "rust/rspirv"]
+	path = rust/rspirv
+	url = https://github.com/gfx-rs/rspirv
+[submodule "rust/rust"]
+	path = rust/rust
+	url = https://github.com/rust-lang/rust
+[submodule "rust/kajiya"]
+	path = rust/kajiya
+	url = https://github.com/EmbarkStudios/kajiya
+[submodule "rust/rust-gpu"]
+	path = rust/rust-gpu
+	url = https://github.com/EmbarkStudios/rust-gpu
+[submodule "rust/ash"]
+	path = rust/ash
+	url = https://github.com/MaikKlein/ash
+[submodule "rust/rust-bindgen"]
+	path = rust/rust-bindgen
+	url = https://github.com/rust-lang/rust-bindgen
+[submodule "rust/mrustc"]
+	path = rust/mrustc
+	url = https://github.com/thepowersgang/mrustc
+[submodule "rust/rust-clippy"]
+	path = rust/rust-clippy
+	url = https://github.com/rust-lang/rust-clippy
+[submodule "rust/compiler-builtins"]
+	path = rust/compiler-builtins
+	url = https://github.com/rust-lang/compiler-builtins
+[submodule "rust/rust-analyzer"]
+	path = rust/rust-analyzer
+	url = https://github.com/rust-analyzer/rust-analyzer
+[submodule "rust/chalk"]
+	path = rust/chalk
+	url = https://github.com/rust-lang/chalk
+[submodule "rust/cargo"]
+	path = rust/cargo
+	url = https://github.com/rust-lang/cargo
+[submodule "rust/miri"]
+	path = rust/miri
+	url = https://github.com/rust-lang/miri
+[submodule "rust/iced"]
+	path = rust/iced
+	url = https://github.com/iced-rs/iced
+[submodule "rust/crochet"]
+	path = rust/crochet
+	url = https://github.com/raphlinus/crochet
+[submodule "rust/druid"]
+	path = rust/druid
+	url = https://github.com/linebender/druid
