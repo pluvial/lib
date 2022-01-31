@@ -769,3 +769,84 @@
 [submodule "rust/druid"]
 	path = rust/druid
 	url = https://github.com/linebender/druid
+[submodule "rust-wasm/wasm-bindgen"]
+	path = rust-wasm/wasm-bindgen
+	url = https://github.com/rustwasm/wasm-bindgen
+[submodule "rust-wasm/gloo"]
+	path = rust-wasm/gloo
+	url = https://github.com/rustwasm/gloo
+[submodule "rust-wasm/wasm-pack"]
+	path = rust-wasm/wasm-pack
+	url = https://github.com/rustwasm/wasm-pack
+[submodule "rust-wasm/walrus"]
+	path = rust-wasm/walrus
+	url = https://github.com/rustwasm/walrus
+[submodule "rust-wasm/weedle"]
+	path = rust-wasm/weedle
+	url = https://github.com/rustwasm/weedle
+[submodule "rust-wasm/wee_alloc"]
+	path = rust-wasm/wee_alloc
+	url = https://github.com/rustwasm/wee_alloc
+[submodule "rust-wasm/rust-dominator"]
+	path = rust-wasm/rust-dominator
+	url = https://github.com/Pauan/rust-dominator
+[submodule "rust-wasm/valerie"]
+	path = rust-wasm/valerie
+	url = https://github.com/emmanuelantony2000/valerie
+[submodule "rust-wasm/mogwai"]
+	path = rust-wasm/mogwai
+	url = https://github.com/schell/mogwai
+[submodule "rust-wasm/yew"]
+	path = rust-wasm/yew
+	url = https://github.com/yewstack/yew
+[submodule "rust-wasm/wasm-script"]
+	path = rust-wasm/wasm-script
+	url = https://github.com/richardanaya/wasm-script
+[submodule "rust-wasm/js-wasm"]
+	path = rust-wasm/js-wasm
+	url = https://github.com/richardanaya/js-wasm
+[submodule "rust-wasm/watson"]
+	path = rust-wasm/watson
+	url = https://github.com/richardanaya/watson
+[submodule "rust-wasm/wasmtime"]
+	path = rust-wasm/wasmtime
+	url = https://github.com/bytecodealliance/wasmtime
+[submodule "rust-wasm/wasm-tools"]
+	path = rust-wasm/wasm-tools
+	url = https://github.com/bytecodealliance/wasm-tools
+[submodule "rust-wasm/rustix"]
+	path = rust-wasm/rustix
+	url = https://github.com/bytecodealliance/rustix
+[submodule "rust-wasm/wasm-micro-runtime"]
+	path = rust-wasm/wasm-micro-runtime
+	url = https://github.com/bytecodealliance/wasm-micro-runtime
+[submodule "rust-wasm/cap-std"]
+	path = rust-wasm/cap-std
+	url = https://github.com/bytecodealliance/cap-std
+[submodule "rust-wasm/wit-bindgen"]
+	path = rust-wasm/wit-bindgen
+	url = https://github.com/bytecodealliance/wit-bindgen
+[submodule "rust-wasm/lucet"]
+	path = rust-wasm/lucet
+	url = https://github.com/bytecodealliance/lucet
+[submodule "rust-wasm/wasmer"]
+	path = rust-wasm/wasmer
+	url = https://github.com/wasmerio/wasmer
+[submodule "rust-wasm/wasmi"]
+	path = rust-wasm/wasmi
+	url = https://github.com/paritytech/wasmi
+[submodule "rust/swc"]
+	path = rust/swc
+	url = https://github.com/swc-project/swc
+[submodule "rust/zola"]
+	path = rust/zola
+	url = https://github.com/getzola/zola
+[submodule "rust/moxie"]
+	path = rust/moxie
+	url = https://github.com/anp/moxie
+[submodule "rust/conrod"]
+	path = rust/conrod
+	url = https://github.com/PistonDevelopers/conrod
+[submodule "rust/moxie-native"]
+	path = rust/moxie-native
+	url = https://github.com/tiffany352/moxie-native
