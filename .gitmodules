@@ -850,3 +850,9 @@
 [submodule "rust/moxie-native"]
 	path = rust/moxie-native
 	url = https://github.com/tiffany352/moxie-native
+[submodule "svelte/pancake"]
+	path = svelte/pancake
+	url = https://github.com/Rich-Harris/pancake
+[submodule "svelte/layercake"]
+	path = svelte/layercake
+	url = https://github.com/mhkeller/layercake
