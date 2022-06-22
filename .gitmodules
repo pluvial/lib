@@ -346,9 +346,6 @@
 [submodule "astro/astro-language-tools"]
 	path = astro/astro-language-tools
 	url = https://github.com/snowpackjs/astro-language-tools
-[submodule "astro/astro-og-image"]
-	path = astro/astro-og-image
-	url = https://github.com/snowpackjs/astro-og-image
 [submodule "astro/astro-repl"]
 	path = astro/astro-repl
 	url = https://github.com/snowpackjs/astro-repl
@@ -856,3 +853,9 @@
 [submodule "svelte/layercake"]
 	path = svelte/layercake
 	url = https://github.com/mhkeller/layercake
+[submodule "zig/zig-gc"]
+	path = zig/zig-gc
+	url = https://github.com/Hejsil/zig-gc
+[submodule "zig/ZT"]
+	path = zig/ZT
+	url = https://github.com/JonSnowbd/ZT
