@@ -393,7 +393,7 @@
 	url = https://github.com/swaywm/zig-wlroots
 [submodule "lua/lua"]
 	path = lua/lua
-	url = https://github.com/lua/lua
+	url = https://github.com/milochristiansen/lua
 [submodule "lua/luajit"]
 	path = lua/luajit
 	url = https://luajit.org/git/luajit.git
@@ -946,3 +946,48 @@
 [submodule "dart/ffigen"]
 	path = dart/ffigen
 	url = https://github.com/dart-lang/ffigen
+[submodule "lua/LCL"]
+	path = lua/LCL
+	url = https://codeberg.org/gsou/LCL
+[submodule "lua/luau"]
+	path = lua/luau
+	url = https://github.com/Roblox/luau
+[submodule "lua/typedlua"]
+	path = lua/typedlua
+	url = https://github.com/andremm/typedlua
+[submodule "lua/metalua"]
+	path = lua/metalua
+	url = https://github.com/fab13n/metalua
+[submodule "lua/urn"]
+	path = lua/urn
+	url = https://github.com/SquidDev/urn
+[submodule "lua/gopher-lua"]
+	path = lua/gopher-lua
+	url = https://github.com/yuin/gopher-lua
+[submodule "lua/go-lua"]
+	path = lua/go-lua
+	url = https://github.com/Shopify/go-lua
+[submodule "lua/ravi"]
+	path = lua/ravi
+	url = https://github.com/dibyendumajumdar/ravi
+[submodule "lua/Killa"]
+	path = lua/Killa
+	url = https://github.com/ex/Killa
+[submodule "lua/moonscript"]
+	path = lua/moonscript
+	url = https://github.com/leafo/moonscript
+[submodule "lua/squilu"]
+	path = lua/squilu
+	url = https://github.com/mingodad/squilu
+[submodule "lua/cosmopolitan"]
+	path = lua/cosmopolitan
+	url = https://github.com/jart/cosmopolitan
+[submodule "lua/ljs"]
+	path = lua/ljs
+	url = https://github.com/mingodad/ljs
+[submodule "lua/jual"]
+	path = lua/jual
+	url = https://github.com/sajonoso/jual
+[submodule "lua/dclua"]
+	path = lua/dclua
+	url = https://github.com/milochristiansen/lua
