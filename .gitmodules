@@ -859,3 +859,90 @@
 [submodule "zig/ZT"]
 	path = zig/ZT
 	url = https://github.com/JonSnowbd/ZT
+[submodule "zig/liz"]
+	path = zig/liz
+	url = https://github.com/dundalek/liz
+[submodule "lua/lust"]
+	path = lua/lust
+	url = https://github.com/eatonphil/lust
+[submodule "lua/love"]
+	path = lua/love
+	url = https://github.com/love2d/love
+[submodule "lua/Fennel"]
+	path = lua/Fennel
+	url = https://github.com/bakpakin/Fennel
+[submodule "lua/lua-in-the-browser"]
+	path = lua/lua-in-the-browser
+	url = https://github.com/andrewrk/lua-in-the-browser
+[submodule "rebol-red/red"]
+	path = rebol-red/red
+	url = https://github.com/red/red
+[submodule "rebol-red/Rebol3"]
+	path = rebol-red/Rebol3
+	url = https://github.com/Oldes/Rebol3
+[submodule "rebol-red/r3"]
+	path = rebol-red/r3
+	url = https://github.com/rebolsource/r3
+[submodule "rebol-red/ren-c"]
+	path = rebol-red/ren-c
+	url = https://github.com/metaeducation/ren-c
+[submodule "rebol-red/ren-cpp"]
+	path = rebol-red/ren-cpp
+	url = https://github.com/metaeducation/ren-cpp
+[submodule "rebol-red/replpad-js"]
+	path = rebol-red/replpad-js
+	url = https://github.com/hostilefork/replpad-js
+[submodule "langs/min"]
+	path = langs/min
+	url = https://github.com/h3rald/min
+[submodule "langs/Red.js"]
+	path = rebol-red/Red.js
+	url = https://github.com/ALANVF/Red.js
+[submodule "rebol-red/redbol"]
+	path = rebol-red/redbol
+	url = https://github.com/metaeducation/redbol
+[submodule "rebol-red/rubol"]
+	path = rebol-red/rubol
+	url = https://github.com/hostilefork/rubol
+[submodule "langs/arturo"]
+	path = langs/arturo
+	url = https://github.com/arturo-lang/arturo
+[submodule "langs/spry"]
+	path = langs/spry
+	url = https://github.com/gokr/spry/
+[submodule "langs/pyret-lang"]
+	path = langs/pyret-lang
+	url = https://github.com/brownplt/pyret-lang
+[submodule "langs/wren"]
+	path = langs/wren
+	url = https://github.com/wren-lang/wren
+[submodule "langs/magpie"]
+	path = langs/magpie
+	url = https://github.com/munificent/magpie
+[submodule "langs/finch"]
+	path = langs/finch
+	url = https://github.com/munificent/finch
+[submodule "dart/sdk"]
+	path = dart/sdk
+	url = https://github.com/dart-lang/sdk
+[submodule "dart/build"]
+	path = dart/build
+	url = https://github.com/dart-lang/build
+[submodule "dart/ffi"]
+	path = dart/ffi
+	url = https://github.com/dart-lang/ffi
+[submodule "dart/code_builder"]
+	path = dart/code_builder
+	url = https://github.com/dart-lang/code_builder
+[submodule "dart/dart-pad"]
+	path = dart/dart-pad
+	url = https://github.com/dart-lang/dart-pad
+[submodule "dart/pub"]
+	path = dart/pub
+	url = https://github.com/dart-lang/pub
+[submodule "dart/pub-dev"]
+	path = dart/pub-dev
+	url = https://github.com/dart-lang/pub-dev
+[submodule "dart/ffigen"]
+	path = dart/ffigen
+	url = https://github.com/dart-lang/ffigen
