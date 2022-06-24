@@ -991,3 +991,48 @@
 [submodule "lua/dclua"]
 	path = lua/dclua
 	url = https://github.com/milochristiansen/lua
+[submodule "lisp/sectorlisp"]
+	path = lisp/sectorlisp
+	url = https://github.com/jart/sectorlisp
+[submodule "lisp/racket"]
+	path = lisp/racket
+	url = https://github.com/racket/racket
+[submodule "lisp/typed-racket"]
+	path = lisp/typed-racket
+	url = https://github.com/racket/typed-racket
+[submodule "lisp/drracket"]
+	path = lisp/drracket
+	url = https://github.com/racket/drracket
+[submodule "lisp/ChezScheme"]
+	path = lisp/ChezScheme
+	url = https://github.com/cisco/ChezScheme
+[submodule "lisp/guile"]
+	path = lisp/guile
+	url = https://git.sv.gnu.org/git/guile.git
+[submodule "lisp/mal"]
+	path = lisp/mal
+	url = https://github.com/kanaka/mal
+[submodule "lisp/picolisp"]
+	path = lisp/picolisp
+	url = https://github.com/picolisp/picolisp
+[submodule "lisp/pil21"]
+	path = lisp/pil21
+	url = https://github.com/picolisp/pil21
+[submodule "lisp/mit-scheme"]
+	path = lisp/mit-scheme
+	url = https://git.savannah.gnu.org/git/mit-scheme.git
+[submodule "lisp/chicken-core"]
+	path = lisp/chicken-core
+	url = git://code.call-cc.org/chicken-core
+[submodule "lisp/gerbil"]
+	path = lisp/gerbil
+	url = https://github.com/vyzo/gerbil
+[submodule "lisp/ulisp"]
+	path = lisp/ulisp
+	url = https://github.com/technoblogy/ulisp
+[submodule "lisp/femtolisp"]
+	path = lisp/femtolisp
+	url = https://github.com/JeffBezanson/femtolisp
+[submodule "lua/moonlisp"]
+	path = lua/moonlisp
+	url = https://github.com/leafo/moonlisp
