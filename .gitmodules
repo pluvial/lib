@@ -1036,3 +1036,18 @@
 [submodule "lua/moonlisp"]
 	path = lua/moonlisp
 	url = https://github.com/leafo/moonlisp
+[submodule "rebol-red/r3bazaar"]
+	path = rebol-red/r3bazaar
+	url = https://github.com/angerangel/r3bazaar
+[submodule "rebol-red/saphir"]
+	path = rebol-red/saphir
+	url = https://github.com/saphirion/saphir
+[submodule "rebol-red/urlan-boron-code"]
+	path = rebol-red/urlan-boron-code
+	url = https://git.code.sf.net/p/urlan/boron/code
+[submodule "rebol-red/World"]
+	path = rebol-red/World
+	url = https://github.com/Geomol/World
+[submodule "rebol-red/Project-SnowBall"]
+	path = rebol-red/Project-SnowBall
+	url = https://github.com/giesse/Project-SnowBall
