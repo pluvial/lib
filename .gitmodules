@@ -1051,3 +1051,18 @@
 [submodule "rebol-red/Project-SnowBall"]
 	path = rebol-red/Project-SnowBall
 	url = https://github.com/giesse/Project-SnowBall
+[submodule "nim/nimble"]
+	path = nim/nimble
+	url = https://github.com/nim-lang/nimble
+[submodule "nim/csources_v1"]
+	path = nim/csources_v1
+	url = https://github.com/nim-lang/csources_v1
+[submodule "nim/langserver"]
+	path = nim/langserver
+	url = https://github.com/nim-lang/langserver
+[submodule "nim/nimlsp"]
+	path = nim/nimlsp
+	url = https://github.com/PMunch/nimlsp
+[submodule "nim/futhark"]
+	path = nim/futhark
+	url = https://github.com/PMunch/futhark
