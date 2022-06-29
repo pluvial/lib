@@ -1069,3 +1069,6 @@
 [submodule "rebol-red/rye"]
 	path = rebol-red/rye
 	url = https://github.com/refaktor/rye
+[submodule "rebol-red/rebol"]
+	path = rebol-red/rebol
+	url = https://github.com/rebol/rebol
