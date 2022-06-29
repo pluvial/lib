@@ -1066,3 +1066,6 @@
 [submodule "nim/futhark"]
 	path = nim/futhark
 	url = https://github.com/PMunch/futhark
+[submodule "rebol-red/rye"]
+	path = rebol-red/rye
+	url = https://github.com/refaktor/rye
