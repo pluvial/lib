@@ -1072,3 +1072,6 @@
 [submodule "rebol-red/rebol"]
 	path = rebol-red/rebol
 	url = https://github.com/rebol/rebol
+[submodule "lua/luarocks"]
+	path = lua/luarocks
+	url = https://github.com/luarocks/luarocks
