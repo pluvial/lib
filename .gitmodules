@@ -905,7 +905,7 @@
 	path = rebol-red/rubol
 	url = https://github.com/hostilefork/rubol
 [submodule "langs/arturo"]
-	path = langs/arturo
+	path = arturo/arturo
 	url = https://github.com/arturo-lang/arturo
 [submodule "langs/spry"]
 	path = langs/spry
@@ -1067,7 +1067,7 @@
 	path = nim/futhark
 	url = https://github.com/PMunch/futhark
 [submodule "rebol-red/rye"]
-	path = rebol-red/rye
+	path = langs/rye
 	url = https://github.com/refaktor/rye
 [submodule "rebol-red/rebol"]
 	path = rebol-red/rebol
@@ -1075,3 +1075,15 @@
 [submodule "lua/luarocks"]
 	path = lua/luarocks
 	url = https://github.com/luarocks/luarocks
+[submodule "arturo/artsembly-module"]
+	path = arturo/artsembly-module
+	url = https://github.com/arturo-lang/artsembly-module
+[submodule "arturo/grafito"]
+	path = arturo/grafito
+	url = https://github.com/arturo-lang/grafito
+[submodule "arturo/webize"]
+	path = arturo/webize
+	url = https://github.com/arturo-lang/webize
+[submodule "arturo/aguila"]
+	path = arturo/aguila
+	url = https://github.com/arturo-lang/aguila
