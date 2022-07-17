@@ -1087,3 +1087,93 @@
 [submodule "arturo/aguila"]
 	path = arturo/aguila
 	url = https://github.com/arturo-lang/aguila
+[submodule "langs/factor"]
+	path = langs/factor
+	url = https://github.com/factor/factor/
+[submodule "lisp/gambit"]
+	path = lisp/gambit
+	url = https://github.com/gambit/gambit
+[submodule "lisp/bigloo"]
+	path = lisp/bigloo
+	url = https://github.com/manuel-serrano/bigloo
+[submodule "lisp/ecl"]
+	path = lisp/ecl
+	url = https://gitlab.com/embeddable-common-lisp/ecl
+[submodule "lisp/cakelisp"]
+	path = lisp/cakelisp
+	url = https://github.com/makuto/cakelisp
+[submodule "lisp/Carp"]
+	path = lisp/Carp
+	url = https://github.com/carp-lang/Carp
+[submodule "lisp/ferret"]
+	path = lisp/ferret
+	url = https://github.com/nakkaya/ferret
+[submodule "lisp/ribbit"]
+	path = lisp/ribbit
+	url = https://github.com/udem-dlteam/ribbit
+[submodule "lisp/hop"]
+	path = lisp/hop
+	url = https://github.com/manuel-serrano/hop
+[submodule "lisp/calcit"]
+	path = lisp/calcit
+	url = https://github.com/calcit-lang/calcit/
+[submodule "lisp/joker"]
+	path = lisp/joker
+	url = https://github.com/candid82/joker
+[submodule "lisp/planck"]
+	path = lisp/planck
+	url = https://github.com/planck-repl/planck
+[submodule "lisp/babashka"]
+	path = lisp/babashka
+	url = https://github.com/babashka/babashka
+[submodule "lisp/sci"]
+	path = lisp/sci
+	url = https://github.com/babashka/sci
+[submodule "lisp/scittle"]
+	path = lisp/scittle
+	url = https://github.com/babashka/scittle
+[submodule "lisp/ol"]
+	path = lisp/ol
+	url = https://github.com/yuriy-chumak/ol
+[submodule "zig/LoLa"]
+	path = zig/LoLa
+	url = https://github.com/MasterQ32/LoLa
+[submodule "zig/bio"]
+	path = zig/bio
+	url = https://github.com/cryptocode/bio
+[submodule "lisp/janet"]
+	path = lisp/janet
+	url = https://github.com/janet-lang/janet
+[submodule "lisp/schism"]
+	path = lisp/schism
+	url = https://github.com/schism-lang/schism
+[submodule "zig/jzignet"]
+	path = zig/jzignet
+	url = https://github.com/greenfork/jzignet
+[submodule "zig-wasm/wisp"]
+	path = zig-wasm/wisp
+	url = https://github.com/mbrock/wisp
+[submodule "zig-wasm/wala"]
+	path = zig-wasm/wala
+	url = https://github.com/CalmSystem/wala
+[submodule "wasm/wax"]
+	path = wasm/wax
+	url = https://github.com/LingDong-/wax
+[submodule "wasm/wase"]
+	path = wasm/wase
+	url = https://github.com/area9innovation/wase
+[submodule "rust-wasm/wasp"]
+	path = rust-wasm/wasp
+	url = https://github.com/wasplang/wasp
+[submodule "wasm/wasCm"]
+	path = wasm/wasCm
+	url = https://github.com/FemtoEmacs/wasCm
+[submodule "wasm/walt"]
+	path = wasm/walt
+	url = https://github.com/ballercat/walt
+[submodule "wasm/wam"]
+	path = wasm/wam
+	url = https://github.com/kanaka/wam
+[submodule "wasm/wah"]
+	path = wasm/wah
+	url = https://github.com/tmcw/wah
