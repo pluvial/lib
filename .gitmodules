@@ -1177,3 +1177,39 @@
 [submodule "wasm/wah"]
 	path = wasm/wah
 	url = https://github.com/tmcw/wah
+[submodule "langs/Odin"]
+	path = langs/Odin
+	url = https://github.com/odin-lang/Odin
+[submodule "langs/v"]
+	path = langs/v
+	url = https://github.com/vlang/v
+[submodule "langs/carbon-lang"]
+	path = langs/carbon-lang
+	url = https://github.com/carbon-language/carbon-lang
+[submodule "zig/zek"]
+	path = zig/zek
+	url = https://github.com/drcode/zek
+[submodule "databases/postgres"]
+	path = databases/postgres
+	url = https://github.com/postgres/postgres
+[submodule "databases/sqlite"]
+	path = databases/sqlite
+	url = https://github.com/sqlite/sqlite
+[submodule "databases/redis"]
+	path = databases/redis
+	url = https://github.com/redis/redis
+[submodule "svelte/sc3-lab"]
+	path = svelte/sc3-lab
+	url = https://github.com/AlexWarnes/sc3-lab
+[submodule "svelte/pass-composer"]
+	path = svelte/pass-composer
+	url = https://github.com/AlexWarnes/pass-composer
+[submodule "svelte/photon"]
+	path = svelte/photon
+	url = https://github.com/AlexWarnes/photon
+[submodule "svelte/threlte"]
+	path = svelte/threlte
+	url = https://github.com/grischaerbe/threlte
+[submodule "svelte/lamina-spatula"]
+	path = svelte/lamina-spatula
+	url = https://github.com/AlexWarnes/lamina-spatula
