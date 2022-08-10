@@ -1213,3 +1213,66 @@
 [submodule "svelte/lamina-spatula"]
 	path = svelte/lamina-spatula
 	url = https://github.com/AlexWarnes/lamina-spatula
+[submodule "forth/waforth"]
+	path = forth/waforth
+	url = https://github.com/remko/waforth
+[submodule "forth/forsm"]
+	path = forth/forsm
+	url = https://github.com/SupernaviX/forsm
+[submodule "forth/wasm-forth"]
+	path = forth/wasm-forth
+	url = https://github.com/stefano/wasm-forth
+[submodule "forth/ricardo-forth"]
+	path = forth/ricardo-forth
+	url = https://github.com/marianoguerra/ricardo-forth
+[submodule "forth/Zig-Forth"]
+	path = forth/Zig-Forth
+	url = https://github.com/lucabol/Zig-Forth/
+[submodule "forth/zf4"]
+	path = forth/zf4
+	url = https://github.com/dannypsnl/zf4
+[submodule "forth/untyped"]
+	path = forth/untyped
+	url = https://github.com/yurapyon/untyped
+[submodule "forth/zzforth"]
+	path = forth/zzforth
+	url = https://github.com/nsmryan/zzforth
+[submodule "forth/zForth"]
+	path = forth/zForth
+	url = https://github.com/zevv/zForth
+[submodule "forth/jonesforth"]
+	path = forth/jonesforth
+	url = https://github.com/nornagon/jonesforth
+[submodule "forth/cxxforth"]
+	path = forth/cxxforth
+	url = https://github.com/kristopherjohnson/cxxforth
+[submodule "forth/cmFORTH"]
+	path = forth/cmFORTH
+	url = https://github.com/ForthHub/cmFORTH
+[submodule "forth/foth"]
+	path = forth/foth
+	url = https://github.com/skx/foth
+[submodule "forth/eForth"]
+	path = forth/eForth
+	url = https://github.com/fdamador/eForth
+[submodule "forth/pez"]
+	path = forth/pez
+	url = https://github.com/pete/pez
+[submodule "forth/atlast"]
+	path = forth/atlast
+	url = https://github.com/Fourmilab/atlast
+[submodule "forth/retroforth"]
+	path = forth/retroforth
+	url = https://github.com/crcx/retroforth
+[submodule "forth/ciforth"]
+	path = forth/ciforth
+	url = https://github.com/albertvanderhorst/ciforth
+[submodule "forth/yourforth"]
+	path = forth/yourforth
+	url = https://github.com/albertvanderhorst/yourforth
+[submodule "forth/gforth"]
+	path = forth/gforth
+	url = https://git.savannah.gnu.org/git/gforth.git
+[submodule "forth/muforth"]
+	path = forth/muforth
+	url = https://github.com/nimblemachines/muforth
