@@ -815,7 +815,7 @@
 	path = rust-wasm/rustix
 	url = https://github.com/bytecodealliance/rustix
 [submodule "rust-wasm/wasm-micro-runtime"]
-	path = rust-wasm/wasm-micro-runtime
+	path = wasm/wasm-micro-runtime
 	url = https://github.com/bytecodealliance/wasm-micro-runtime
 [submodule "rust-wasm/cap-std"]
 	path = rust-wasm/cap-std
@@ -1276,3 +1276,21 @@
 [submodule "forth/muforth"]
 	path = forth/muforth
 	url = https://github.com/nimblemachines/muforth
+[submodule "wasm/wabt"]
+	path = wasm/wabt
+	url = https://github.com/WebAssembly/wabt
+[submodule "wasm/binaryen"]
+	path = wasm/binaryen
+	url = https://github.com/WebAssembly/binaryen
+[submodule "wasm/pictie"]
+	path = wasm/pictie
+	url = https://github.com/wingo/pictie
+[submodule "wasm/wasm-jit"]
+	path = wasm/wasm-jit
+	url = https://github.com/wingo/wasm-jit
+[submodule "rust-wasm/wizer"]
+	path = rust-wasm/wizer
+	url = https://github.com/bytecodealliance/wizer
+[submodule "wasm/wasi-libc"]
+	path = wasm/wasi-libc
+	url = https://github.com/WebAssembly/wasi-libc
