@@ -1294,3 +1294,6 @@
 [submodule "wasm/wasi-libc"]
 	path = wasm/wasi-libc
 	url = https://github.com/WebAssembly/wasi-libc
+[submodule "lisp/chibi-scheme"]
+	path = lisp/chibi-scheme
+	url = https://github.com/ashinn/chibi-scheme
