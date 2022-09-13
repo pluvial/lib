@@ -1297,3 +1297,51 @@
 [submodule "lisp/chibi-scheme"]
 	path = lisp/chibi-scheme
 	url = https://github.com/ashinn/chibi-scheme
+[submodule "wasm/WAVM"]
+	path = wasm/WAVM
+	url = https://github.com/WAVM/WAVM
+[submodule "wasm/wasm3"]
+	path = wasm/wasm3
+	url = https://github.com/wasm3/wasm3
+[submodule "wasm/wasm-c-api"]
+	path = wasm/wasm-c-api
+	url = https://github.com/WebAssembly/wasm-c-api
+[submodule "wasm/fizzy"]
+	path = wasm/fizzy
+	url = https://github.com/wasmx/fizzy
+[submodule "wasm/wac"]
+	path = wasm/wac
+	url = https://github.com/kanaka/wac
+[submodule "wasm/WasmEdge"]
+	path = wasm/WasmEdge
+	url = https://github.com/WasmEdge/WasmEdge
+[submodule "wasm/faasm"]
+	path = wasm/faasm
+	url = https://github.com/faasm/faasm
+[submodule "rust-wasm/wasmflow"]
+	path = rust-wasm/wasmflow
+	url = https://github.com/wasmflow/wasmflow
+[submodule "rust-wasm/krustlet"]
+	path = rust-wasm/krustlet
+	url = https://github.com/krustlet/krustlet
+[submodule "rust-wasm/enarx"]
+	path = rust-wasm/enarx
+	url = https://github.com/enarx/enarx
+[submodule "rust-wasm/spin"]
+	path = rust-wasm/spin
+	url = https://github.com/fermyon/spin
+[submodule "rust-wasm/marine"]
+	path = rust-wasm/marine
+	url = https://github.com/fluencelabs/marine
+[submodule "rust-wasm/runwasi"]
+	path = rust-wasm/runwasi
+	url = https://github.com/deislabs/runwasi
+[submodule "rust-wasm/containerd-wasm-shims"]
+	path = rust-wasm/containerd-wasm-shims
+	url = https://github.com/deislabs/containerd-wasm-shims
+[submodule "rust-wasm/wasmCloud"]
+	path = rust-wasm/wasmCloud
+	url = https://github.com/wasmCloud/wasmCloud
+[submodule "rust-wasm/lunatic"]
+	path = rust-wasm/lunatic
+	url = https://github.com/lunatic-solutions/lunatic
