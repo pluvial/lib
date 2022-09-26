@@ -1142,7 +1142,7 @@
 	path = zig/bio
 	url = https://github.com/cryptocode/bio
 [submodule "lisp/janet"]
-	path = lisp/janet
+	path = janet/janet
 	url = https://github.com/janet-lang/janet
 [submodule "lisp/schism"]
 	path = lisp/schism
@@ -1345,3 +1345,42 @@
 [submodule "rust-wasm/lunatic"]
 	path = rust-wasm/lunatic
 	url = https://github.com/lunatic-solutions/lunatic
+[submodule "lisp/s7"]
+	path = lisp/s7
+	url = https://cm-gitlab.stanford.edu/bil/s7.git
+[submodule "lisp/s7-playground"]
+	path = lisp/s7-playground
+	url = https://github.com/actonDev/s7-playground
+[submodule "lua/fengari"]
+	path = lua/fengari
+	url = https://github.com/fengari-lua/fengari
+[submodule "lisp/bauble"]
+	path = janet/bauble
+	url = https://github.com/ianthehenry/bauble
+[submodule "lisp/judge"]
+	path = janet/judge
+	url = https://github.com/ianthehenry/judge
+[submodule "janet/temple"]
+	path = janet/temple
+	url = https://git.sr.ht/~bakpakin/temple
+[submodule "janet/mendoza"]
+	path = janet/mendoza
+	url = https://github.com/bakpakin/mendoza
+[submodule "janet/janetsh"]
+	path = janet/janetsh
+	url = https://github.com/andrewchambers/janetsh
+[submodule "janet/joy"]
+	path = janet/joy
+	url = https://github.com/joy-framework/joy
+[submodule "janet/chidi"]
+	path = janet/chidi
+	url = https://git.sr.ht/~pepe/chidi
+[submodule "janet/trevor"]
+	path = janet/trevor
+	url = https://git.sr.ht/~pepe/trevor
+[submodule "janet/jff"]
+	path = janet/jff
+	url = https://git.sr.ht/~pepe/jff
+[submodule "lisp/loko"]
+	path = lisp/loko
+	url = https://gitlab.com/weinholt/loko
