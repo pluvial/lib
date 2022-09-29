@@ -1384,3 +1384,18 @@
 [submodule "lisp/loko"]
 	path = lisp/loko
 	url = https://gitlab.com/weinholt/loko
+[submodule "vite/vite-plugin-vue-bevy-wasm"]
+	path = vite/vite-plugin-vue-bevy-wasm
+	url = https://github.com/slyedoc/vite-plugin-vue-bevy-wasm
+[submodule "vite/vite-plugin-wasm-go"]
+	path = vite/vite-plugin-wasm-go
+	url = https://github.com/m-Ryan/vite-plugin-wasm-go
+[submodule "rollup/rollup-plugin-rust"]
+	path = rollup/rollup-plugin-rust
+	url = https://github.com/wasm-tool/rollup-plugin-rust
+[submodule "rust-wasm/watt"]
+	path = rust-wasm/watt
+	url = https://github.com/dtolnay/watt
+[submodule "rust-wasm/cargo-watt"]
+	path = rust-wasm/cargo-watt
+	url = https://github.com/jakobhellermann/cargo-watt
