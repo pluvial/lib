@@ -1399,3 +1399,123 @@
 [submodule "rust-wasm/cargo-watt"]
 	path = rust-wasm/cargo-watt
 	url = https://github.com/jakobhellermann/cargo-watt
+[submodule "infrastructure/linuxkit"]
+	path = infrastructure/linuxkit
+	url = https://github.com/linuxkit/linuxkit
+[submodule "infrastructure/rootfs_builder"]
+	path = infrastructure/rootfs_builder
+	url = https://github.com/ForAllSecure/rootfs_builder
+[submodule "infrastructure/undocker"]
+	path = infrastructure/undocker
+	url = https://git.sr.ht/~motiejus/undocker
+[submodule "infrastructure/colima"]
+	path = infrastructure/colima
+	url = https://github.com/abiosoft/colima
+[submodule "infrastructure/sshocker"]
+	path = infrastructure/sshocker
+	url = https://github.com/lima-vm/sshocker
+[submodule "infrastructure/alpine-lima"]
+	path = infrastructure/alpine-lima
+	url = https://github.com/lima-vm/alpine-lima
+[submodule "infrastructure/lima"]
+	path = infrastructure/lima
+	url = https://github.com/lima-vm/lima
+[submodule "infrastructure/nerdctl"]
+	path = infrastructure/nerdctl
+	url = https://github.com/containerd/nerdctl
+[submodule "infrastructure/containerd"]
+	path = infrastructure/containerd
+	url = https://github.com/containerd/containerd
+[submodule "infrastructure/apptainer"]
+	path = infrastructure/apptainer
+	url = https://github.com/apptainer/apptainer
+[submodule "infrastructure/vagrant"]
+	path = infrastructure/vagrant
+	url = https://github.com/hashicorp/vagrant
+[submodule "infrastructure/consul"]
+	path = infrastructure/consul
+	url = https://github.com/hashicorp/consul
+[submodule "infrastructure/nomad"]
+	path = infrastructure/nomad
+	url = https://github.com/hashicorp/nomad
+[submodule "infrastructure/terraform"]
+	path = infrastructure/terraform
+	url = https://github.com/hashicorp/terraform
+[submodule "infrastructure/packer"]
+	path = infrastructure/packer
+	url = https://github.com/hashicorp/packer
+[submodule "infrastructure/waypoint"]
+	path = infrastructure/waypoint
+	url = https://github.com/hashicorp/waypoint
+[submodule "infrastructure/cri-o"]
+	path = infrastructure/cri-o
+	url = https://github.com/cri-o/cri-o
+[submodule "infrastructure/runc"]
+	path = infrastructure/runc
+	url = https://github.com/opencontainers/runc
+[submodule "infrastructure/runtime-tools"]
+	path = infrastructure/runtime-tools
+	url = https://github.com/opencontainers/runtime-tools
+[submodule "infrastructure/image"]
+	path = infrastructure/image
+	url = https://github.com/containers/image
+[submodule "infrastructure/umoci"]
+	path = infrastructure/umoci
+	url = https://github.com/opencontainers/umoci
+[submodule "infrastructure/stacker"]
+	path = infrastructure/stacker
+	url = https://github.com/project-stacker/stacker
+[submodule "infrastructure/lxc"]
+	path = infrastructure/lxc
+	url = https://github.com/lxc/lxc
+[submodule "infrastructure/podman"]
+	path = infrastructure/podman
+	url = https://github.com/containers/podman
+[submodule "infrastructure/buildah"]
+	path = infrastructure/buildah
+	url = https://github.com/containers/buildah
+[submodule "infrastructure/skopeo"]
+	path = infrastructure/skopeo
+	url = https://github.com/containers/skopeo
+[submodule "infrastructure/crun"]
+	path = infrastructure/crun
+	url = https://github.com/containers/crun
+[submodule "infrastructure/firecracker"]
+	path = infrastructure/firecracker
+	url = https://github.com/firecracker-microvm/firecracker
+[submodule "infrastructure/krunvm"]
+	path = infrastructure/krunvm
+	url = https://github.com/containers/krunvm
+[submodule "infrastructure/libkrun"]
+	path = infrastructure/libkrun
+	url = https://github.com/containers/libkrun
+[submodule "infrastructure/ignite"]
+	path = infrastructure/ignite
+	url = https://github.com/weaveworks/ignite
+[submodule "infrastructure/qemu"]
+	path = infrastructure/qemu
+	url = https://gitlab.com/qemu-project/qemu
+[submodule "infrastructure/libvirt"]
+	path = infrastructure/libvirt
+	url = https://gitlab.com/libvirt/libvirt
+[submodule "infrastructure/kvm"]
+	path = infrastructure/kvm
+	url = git://git.kernel.org/pub/scm/virt/kvm/kvm.git
+[submodule "infrastructure/dagger"]
+	path = infrastructure/dagger
+	url = https://github.com/dagger/dagger
+[submodule "infrastructure/docker-compose"]
+	path = infrastructure/docker-compose
+	url = https://github.com/docker/compose
+[submodule "infrastructure/buildkit"]
+	path = infrastructure/buildkit
+	url = https://github.com/moby/buildkit
+[submodule "infrastructure/docker-cli"]
+	path = infrastructure/docker-cli
+	url = https://github.com/docker/cli
+[submodule "infrastructure/swarmkit"]
+	path = infrastructure/swarmkit
+	url = https://github.com/moby/swarmkit
+[submodule "infrastructure/moby"]
+	path = infrastructure/moby
+	url = https://github.com/moby/moby/
