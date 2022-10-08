@@ -710,10 +710,10 @@
 	path = rust/webrender
 	url = https://github.com/servo/webrender
 [submodule "rust/wgpu"]
-	path = rust/wgpu
+	path = gpu/wgpu
 	url = https://github.com/gfx-rs/wgpu
 [submodule "rust/wgpu-native"]
-	path = rust/wgpu-native
+	path = gpu/wgpu-native
 	url = https://github.com/gfx-rs/wgpu-native
 [submodule "rust/naga"]
 	path = rust/naga
@@ -1519,3 +1519,21 @@
 [submodule "infrastructure/moby"]
 	path = infrastructure/moby
 	url = https://github.com/moby/moby/
+[submodule "gpu/dawn"]
+	path = gpu/dawn
+	url = https://dawn.googlesource.com/dawn
+[submodule "gpu/use.gpu"]
+	path = gpu/use.gpu
+	url = https://gitlab.com/unconed/use.gpu
+[submodule "gpu/webgpu-seed"]
+	path = gpu/webgpu-seed
+	url = https://github.com/alaingalvan/webgpu-seed
+[submodule "langs/craftinginterpreters"]
+	path = langs/craftinginterpreters
+	url = https://github.com/munificent/craftinginterpreters
+[submodule "wasm/raw-wasm"]
+	path = wasm/raw-wasm
+	url = https://github.com/binji/raw-wasm
+[submodule "gpu/gltut"]
+	path = gpu/gltut
+	url = https://github.com/paroj/gltut
