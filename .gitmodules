@@ -1537,3 +1537,84 @@
 [submodule "gpu/gltut"]
 	path = gpu/gltut
 	url = https://github.com/paroj/gltut
+[submodule "music/schismtracker"]
+	path = music/schismtracker
+	url = https://github.com/schismtracker/schismtracker
+[submodule "music/MilkyTracker"]
+	path = music/MilkyTracker
+	url = https://github.com/milkytracker/MilkyTracker
+[submodule "music/openmpt"]
+	path = music/openmpt
+	url = https://github.com/OpenMPT/openmpt
+[submodule "music/buzztrax"]
+	path = music/buzztrax
+	url = https://github.com/Buzztrax/buzztrax
+[submodule "music/sunvox_sources"]
+	path = music/sunvox_sources
+	url = https://github.com/warmplace/sunvox_sources
+[submodule "music/pt2-clone"]
+	path = music/pt2-clone
+	url = https://github.com/8bitbubsy/pt2-clone
+[submodule "music/ft2-clone"]
+	path = music/ft2-clone
+	url = https://github.com/8bitbubsy/ft2-clone
+[submodule "music/impulsetracker"]
+	path = music/impulsetracker
+	url = https://github.com/herrnst/impulsetracker
+[submodule "music/libmodplug"]
+	path = music/libmodplug
+	url = https://github.com/Konstanty/libmodplug
+[submodule "music/pt23f"]
+	path = music/pt23f
+	url = https://github.com/8bitbubsy/pt23f
+[submodule "music/MadTracker3"]
+	path = music/MadTracker3
+	url = https://github.com/MadTracker-FOSS/MadTracker3
+[submodule "music/ahx2play"]
+	path = music/ahx2play
+	url = https://github.com/8bitbubsy/ahx2play
+[submodule "music/ft2play"]
+	path = music/ft2play
+	url = https://github.com/8bitbubsy/ft2play
+[submodule "music/it2play"]
+	path = music/it2play
+	url = https://github.com/8bitbubsy/it2play
+[submodule "music/opencubicplayer"]
+	path = music/opencubicplayer
+	url = https://github.com/mywave82/opencubicplayer
+[submodule "music/git"]
+	path = music/git
+	url = https://git.code.sf.net/p/soundtracker/git
+[submodule "music/chibitracker"]
+	path = music/chibitracker
+	url = https://github.com/reduz/chibitracker
+[submodule "music/chibi-xmplay"]
+	path = music/chibi-xmplay
+	url = https://github.com/reduz/chibi-xmplay
+[submodule "music/mikmod"]
+	path = music/mikmod
+	url = https://github.com/sezero/mikmod
+[submodule "music/Propulse"]
+	path = music/Propulse
+	url = https://github.com/hukkax/Propulse
+[submodule "music/soundbox"]
+	path = music/soundbox
+	url = https://github.com/mbitsnbites/soundbox
+[submodule "music/Marabu"]
+	path = music/Marabu
+	url = https://github.com/hundredrabbits/Marabu
+[submodule "music/Pilot"]
+	path = music/Pilot
+	url = https://github.com/hundredrabbits/Pilot
+[submodule "music/Orca"]
+	path = music/Orca
+	url = https://github.com/hundredrabbits/Orca
+[submodule "music/Orca-c"]
+	path = music/Orca-c
+	url = https://github.com/hundredrabbits/Orca-c
+[submodule "music/protrekkr"]
+	path = music/protrekkr
+	url = https://github.com/hitchhikr/protrekkr
+[submodule "music/psycle"]
+	path = music/psycle
+	url = https://github.com/jpaquim/psycle
