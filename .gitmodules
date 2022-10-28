@@ -833,7 +833,7 @@
 	path = rust-wasm/wasmi
 	url = https://github.com/paritytech/wasmi
 [submodule "rust/swc"]
-	path = rust/swc
+	path = bundlers/swc
 	url = https://github.com/swc-project/swc
 [submodule "rust/zola"]
 	path = rust/zola
@@ -1618,3 +1618,18 @@
 [submodule "music/psycle"]
 	path = music/psycle
 	url = https://github.com/jpaquim/psycle
+[submodule "bundlers/turbo"]
+	path = bundlers/turbo
+	url = https://github.com/vercel/turbo
+[submodule "bundlers/parcel"]
+	path = bundlers/parcel
+	url = https://github.com/parcel-bundler/parcel
+[submodule "bundlers/webpack"]
+	path = bundlers/webpack
+	url = https://github.com/webpack/webpack
+[submodule "bundlers/rome-tools"]
+	path = bundlers/rome-tools
+	url = https://github.com/rome/tools
+[submodule "bundlers/esbuild"]
+	path = bundlers/esbuild
+	url = https://github.com/evanw/esbuild
