@@ -1600,18 +1600,6 @@
 [submodule "music/soundbox"]
 	path = music/soundbox
 	url = https://github.com/mbitsnbites/soundbox
-[submodule "music/Marabu"]
-	path = music/Marabu
-	url = https://github.com/hundredrabbits/Marabu
-[submodule "music/Pilot"]
-	path = music/Pilot
-	url = https://github.com/hundredrabbits/Pilot
-[submodule "music/Orca"]
-	path = music/Orca
-	url = https://github.com/hundredrabbits/Orca
-[submodule "music/Orca-c"]
-	path = music/Orca-c
-	url = https://github.com/hundredrabbits/Orca-c
 [submodule "music/protrekkr"]
 	path = music/protrekkr
 	url = https://github.com/hitchhikr/protrekkr
