@@ -363,13 +363,13 @@
 	url = https://github.com/udevbe/greenfield-webshell
 [submodule "wayland/wayland"]
 	path = wayland/wayland
-	url = https://gitlab.freedesktop.org/wayland/wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland.git
 [submodule "wayland/wayland-protocols"]
 	path = wayland/wayland-protocols
-	url = https://gitlab.freedesktop.org/wayland/wayland-protocols
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
 [submodule "wayland/wayland-utils"]
 	path = wayland/wayland-utils
-	url = https://gitlab.freedesktop.org/wayland/wayland-utils
+	url = https://gitlab.freedesktop.org/wayland/wayland-utils.git
 [submodule "wayland/webshell"]
 	path = wayland/webshell
 	url = https://github.com/udevbe/webshell
@@ -378,7 +378,7 @@
 	url = https://github.com/udevbe/westfield
 [submodule "wayland/weston"]
 	path = wayland/weston
-	url = https://gitlab.freedesktop.org/wayland/weston
+	url = https://gitlab.freedesktop.org/wayland/weston.git
 [submodule "sway/sway"]
 	path = sway/sway
 	url = https://github.com/swaywm/sway
@@ -1098,7 +1098,7 @@
 	url = https://github.com/manuel-serrano/bigloo
 [submodule "lisp/ecl"]
 	path = lisp/ecl
-	url = https://gitlab.com/embeddable-common-lisp/ecl
+	url = https://gitlab.com/embeddable-common-lisp/ecl.git
 [submodule "lisp/cakelisp"]
 	path = lisp/cakelisp
 	url = https://github.com/makuto/cakelisp
@@ -1383,7 +1383,7 @@
 	url = https://git.sr.ht/~pepe/jff
 [submodule "lisp/loko"]
 	path = lisp/loko
-	url = https://gitlab.com/weinholt/loko
+	url = https://gitlab.com/weinholt/loko.git
 [submodule "vite/vite-plugin-vue-bevy-wasm"]
 	path = vite/vite-plugin-vue-bevy-wasm
 	url = https://github.com/slyedoc/vite-plugin-vue-bevy-wasm
@@ -1494,10 +1494,10 @@
 	url = https://github.com/weaveworks/ignite
 [submodule "infrastructure/qemu"]
 	path = infrastructure/qemu
-	url = https://gitlab.com/qemu-project/qemu
+	url = https://gitlab.com/qemu-project/qemu.git
 [submodule "infrastructure/libvirt"]
 	path = infrastructure/libvirt
-	url = https://gitlab.com/libvirt/libvirt
+	url = https://gitlab.com/libvirt/libvirt.git
 [submodule "infrastructure/kvm"]
 	path = infrastructure/kvm
 	url = git://git.kernel.org/pub/scm/virt/kvm/kvm.git
@@ -1524,7 +1524,7 @@
 	url = https://dawn.googlesource.com/dawn
 [submodule "gpu/use.gpu"]
 	path = gpu/use.gpu
-	url = https://gitlab.com/unconed/use.gpu
+	url = https://gitlab.com/unconed/use.gpu.git
 [submodule "gpu/webgpu-seed"]
 	path = gpu/webgpu-seed
 	url = https://github.com/alaingalvan/webgpu-seed
