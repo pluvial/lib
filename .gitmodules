@@ -120,7 +120,7 @@
 	url = https://github.com/kristoff-it/bork
 [submodule "zig/bun"]
 	path = zig/bun
-	url = https://github.com/Jarred-Sumner/bun
+	url = https://github.com/oven-sh/bun
 [submodule "zig/burrito"]
 	path = zig/burrito
 	url = https://github.com/burrito-elixir/burrito
@@ -1633,3 +1633,111 @@
 [submodule "bundlers/esbuild"]
 	path = bundlers/esbuild
 	url = https://github.com/evanw/esbuild
+[submodule "rabbits/orca"]
+	path = rabbits/orca
+	url = https://git.sr.ht/~rabbits/orca
+[submodule "rabbits/orca-toy"]
+	path = rabbits/orca-toy
+	url = https://git.sr.ht/~rabbits/orca-toy
+[submodule "rabbits/orca-examples"]
+	path = rabbits/orca-examples
+	url = https://git.sr.ht/~rabbits/orca-examples
+[submodule "rabbits/marabu"]
+	path = rabbits/marabu
+	url = https://git.sr.ht/~rabbits/marabu
+[submodule "rabbits/uxn"]
+	path = rabbits/uxn
+	url = https://git.sr.ht/~rabbits/uxn
+[submodule "rabbits/left"]
+	path = rabbits/left
+	url = https://git.sr.ht/~rabbits/left
+[submodule "rabbits/uxnlin"]
+	path = rabbits/uxnlin
+	url = https://git.sr.ht/~rabbits/uxnlin
+[submodule "rabbits/drifblim"]
+	path = rabbits/drifblim
+	url = https://git.sr.ht/~rabbits/drifblim
+[submodule "rabbits/uxn5"]
+	path = rabbits/uxn5
+	url = https://git.sr.ht/~rabbits/uxn5
+[submodule "rabbits/potato"]
+	path = rabbits/potato
+	url = https://git.sr.ht/~rabbits/potato
+[submodule "rabbits/beetbug"]
+	path = rabbits/beetbug
+	url = https://git.sr.ht/~rabbits/beetbug
+[submodule "rabbits/psi-forth"]
+	path = rabbits/psi-forth
+	url = https://git.sr.ht/~rabbits/psi-forth
+[submodule "rabbits/dexe"]
+	path = rabbits/dexe
+	url = https://git.sr.ht/~rabbits/dexe
+[submodule "rabbits/adelie"]
+	path = rabbits/adelie
+	url = https://git.sr.ht/~rabbits/adelie
+[submodule "rabbits/uxnbal"]
+	path = rabbits/uxnbal
+	url = https://git.sr.ht/~rabbits/uxnbal
+[submodule "rabbits/moogle"]
+	path = rabbits/moogle
+	url = https://git.sr.ht/~rabbits/moogle
+[submodule "rabbits/fractran"]
+	path = rabbits/fractran
+	url = https://git.sr.ht/~rabbits/fractran
+[submodule "rabbits/parade"]
+	path = rabbits/parade
+	url = https://git.sr.ht/~rabbits/parade
+[submodule "rabbits/dotgrid"]
+	path = rabbits/dotgrid
+	url = https://git.sr.ht/~rabbits/dotgrid
+[submodule "rabbits/noodle"]
+	path = rabbits/noodle
+	url = https://git.sr.ht/~rabbits/noodle
+[submodule "rabbits/ronin"]
+	path = rabbits/ronin
+	url = https://github.com/hundredrabbits/Ronin
+[submodule "rabbits/orca-js"]
+	path = rabbits/orca-js
+	url = https://github.com/hundredrabbits/Orca
+[submodule "rabbits/dotgrid-js"]
+	path = rabbits/dotgrid-js
+	url = https://github.com/hundredrabbits/Dotgrid
+[submodule "rabbits/left-js"]
+	path = rabbits/left-js
+	url = https://github.com/hundredrabbits/Left
+[submodule "rabbits/marabu-js"]
+	path = rabbits/marabu-js
+	url = https://github.com/hundredrabbits/Marabu
+[submodule "rabbits/enfer"]
+	path = rabbits/enfer
+	url = https://github.com/neauoire/Enfer
+[submodule "rabbits/pilot"]
+	path = rabbits/pilot
+	url = https://github.com/hundredrabbits/Pilot
+[submodule "rabbits/uxn-impl-guide"]
+	path = rabbits/uxn-impl-guide
+	url = https://github.com/DeltaF1/uxn-impl-guide
+[submodule "rabbits/uxn-lua"]
+	path = rabbits/uxn-lua
+	url = https://github.com/DeltaF1/uxn-lua
+[submodule "rabbits/learn-uxn"]
+	path = rabbits/learn-uxn
+	url = https://git.sr.ht/~metasyn/learn-uxn
+[submodule "rabbits/webuxn"]
+	path = rabbits/webuxn
+	url = https://github.com/aduros/webuxn
+[submodule "rabbits/uxnweb"]
+	path = rabbits/uxnweb
+	url = https://git.sr.ht/~bogmon/uxnweb
+[submodule "rabbits/uxnfth"]
+	path = rabbits/uxnfth
+	url = https://git.sr.ht/~binarycat/uxnfth
+[submodule "rabbits/nasu"]
+	path = rabbits/nasu
+	url = https://git.sr.ht/~rabbits/nasu
+[submodule "rabbits/turye"]
+	path = rabbits/turye
+	url = https://git.sr.ht/~rabbits/turye
+[submodule "rabbits/learn-orca"]
+	path = rabbits/learn-orca
+	url = https://git.sr.ht/~metasyn/learn-orca
